@@ -26,6 +26,15 @@ print(sorted_list)
 ```python
 [2, 3, 5, 6, 7, 8]
 ```
+
+## Installation:
+
+You can install this package using pip:
+
+```sh
+pip install python-bubble-sort
+```
+
 ### Author
 This implementation was created by Isaac Lyne.
 
