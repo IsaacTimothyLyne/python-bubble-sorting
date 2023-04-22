@@ -32,3 +32,7 @@ def bubble_sort(items, order='asc'):
         raise ValueError("Invalid order specified. Must be either 'asc' or 'desc'.")
 
     return items
+
+if __name__ == '__main__':
+    items = [4, 3, 2, 1]
+    print(bubble_sort(items))  # Output: [1, 2, 3, 4]
