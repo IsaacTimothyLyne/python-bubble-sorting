@@ -3,6 +3,13 @@
 This repository contains a simple Python implementation of the bubble sorting algorithm.
 
 The idea behind bubble sort is to repeatedly swap adjacent elements in a list until they are sorted. The algorithm gets its name from the way smaller elements "bubble" to the top of the list.
+## Installation:
+
+You can install this package using pip:
+
+```sh
+pip install python-bubble-sort
+```
 
 ### How it works
 ![Bubble Sort Example](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)
@@ -26,6 +33,7 @@ print(sorted_list)
 ```python
 [2, 3, 5, 6, 7, 8]
 ```
+
 ### Author
 This implementation was created by Isaac Lyne.
 
