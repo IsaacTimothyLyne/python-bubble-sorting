@@ -25,7 +25,7 @@ The `bubble_sort` function defined in `bubble_sort.py` takes a list of numbers a
 from bubble_sort import bubble_sort
 
 unsorted_list = [5, 3, 8, 6, 7, 2]
-sorted_list = bubble_sort(unsorted_list)
+sorted_list = bubble_sort(unsorted_list, 'asc')
 print(sorted_list)
 ```
 
